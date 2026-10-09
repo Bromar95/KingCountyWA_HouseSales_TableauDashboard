@@ -82,7 +82,7 @@ This project helped me learn maps, bins, calendar views, and dashboard actions i
 
 ## 🔗 Related Link
 
-<!-- EDIT: add the LinkedIn post link after publishing -->
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7514210232605077504/)
 
 ## 🧑‍💻 Author
 
